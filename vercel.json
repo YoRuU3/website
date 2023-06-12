@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/old-page", "destination": "/new-page", "statusCode": 301 }
+    { "source": "https://website-gg.vercel.app/", "destination": "https://yoruu3.vercel.app/", "statusCode": 301 }
   ]
 }
